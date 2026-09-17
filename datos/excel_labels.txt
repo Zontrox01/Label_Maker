@@ -1,1 +1,1 @@
-C:/Users/Usuario/Documents/Mis programas Python/Adhesivas/dist/datos/Etiquetas.xlsx
+C:/Users/Usuario/excel_labels/datos/Etiquetas.xlsx
