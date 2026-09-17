@@ -89,7 +89,7 @@ En `FILES.md` está el detalle completo de la plantilla y de los ficheros de con
 ## Estructura
 
 ```
-etiquetas-qr/
+label-maker/
 ├── label_maker.py            # Interfaz gráfica. Punto de entrada.
 ├── label_generator.py        # Motor de dibujo de etiquetas y hojas.
 ├── printer_labels.py         # Impresión (Windows) y exportación a PDF.
