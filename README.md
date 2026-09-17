@@ -1,4 +1,5 @@
-# Label_Maker
+# Generador de Etiquetas con QR
+
 Aplicación de escritorio que convierte una hoja de Excel en una plancha de etiquetas con
 código QR, lista para imprimir o exportar a PDF.
 
@@ -89,7 +90,7 @@ En `FILES.md` está el detalle completo de la plantilla y de los ficheros de con
 ## Estructura
 
 ```
-label-maker/
+etiquetas-qr/
 ├── label_maker.py            # Interfaz gráfica. Punto de entrada.
 ├── label_generator.py        # Motor de dibujo de etiquetas y hojas.
 ├── printer_labels.py         # Impresión (Windows) y exportación a PDF.
